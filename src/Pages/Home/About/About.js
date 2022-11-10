@@ -17,7 +17,7 @@ const About = () => {
               </div>
               <div className="flex mt-12 flex-col items-center lg:items-end md:w-8/12">
                 <h1 className="focus:outline-none text-xl font-bold leading-5">Choose Your needed Option</h1>
-                <h2 className="focus:outline-none text-gray-500 mt-3 pl-3 text-center md:text-right text-base leading-6 tracking-wide">I am professional plamboy . My all service are here. If you need any service please create an account and choose your option </h2>
+                <h2 className="focus:outline-none text-gray-500 mt-3 pl-3 text-center md:text-right text-base leading-6 tracking-wide">I am professional plamboy . My all service are here. If you need any service please create an account and choose your option. I am aleays ready to help you </h2>
               </div>
               <div aria-label="transactions" role="img">
                 <img className="focus:outline-none mt-24" src="https://tuk-cdn.s3.amazonaws.com/can-uploader/3_step_center_aligned_how_it_worksSvg3.svg" alt="..." />
