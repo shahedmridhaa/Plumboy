@@ -8,7 +8,7 @@ const Card = ({service}) => {
 <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
 <img src={image} className="object-cover w-full h-64" alt="" />
 
-<div className="p-5 border border-t-0">
+<div className="p-5 shadow-sm border-t-0">
   
   <p className="inline-block h-[30px] mb-6 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700">
     {name}
