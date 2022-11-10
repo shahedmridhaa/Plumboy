@@ -4,12 +4,11 @@
     background-size: cover;
     background-repeat: no-repeat;
    
+    height: 60vh;
 }
 
 
-.banner-text{
-    margin-top: 90px;
-}
+
 .banner-btn	{
     color: #818cf8;
 }
