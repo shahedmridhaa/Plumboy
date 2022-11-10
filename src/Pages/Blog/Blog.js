@@ -10,7 +10,7 @@ const Blog = () => {
          <title>blog</title>
         </Helmet>
 
-        <section class="text-gray-600 body-font"> 
+        <section class="text-gray-700 body-font"> 
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
       <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
@@ -20,7 +20,7 @@ const Blog = () => {
       <div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
         
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Difference between SQL and NoSQL</h2>
+          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Difference between SQL and NoSQL?</h2>
           <p class="leading-relaxed">SQL is the programming language used to interface with relational databases. Relational databases model data as records in rows and tables with logical links between them. NoSQL is a class of DBMs that are non-relational and generally do not use SQL.</p>
         </div>
       </div>
