@@ -13,6 +13,7 @@ import Updetrivew from "./Pages/Myreview/Updetrivew";
 import Privateroute from "./Privateroute/Privateroute";
 import { Toaster } from "react-hot-toast";
 import PrivetLogin from "./Privateroute/PrivetLogin";
+import Error from "./Pages/Error/Error"
 
 
 function App() {
@@ -79,7 +80,7 @@ function App() {
         },
       ],
     },
-    
+    {path:"*", element:<Error></Error>}
   ]);
 
   return (
