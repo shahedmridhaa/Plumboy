@@ -31,7 +31,7 @@ const Servicecard = ({ service }) => {
 
         <p>
           {description.length > 100
-            ? description.slice(0, 110) + "..."
+            ? description.slice(0, 115) + "..."
             : description}
         </p>
 
