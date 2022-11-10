@@ -8,7 +8,7 @@ const Rivewcard = ({rivew}) => {
     return (
       <div>
 		
-     <div className="container flex flex-col w-full max-w-lg p-6 mx-auto divide-y rounded-md shadow-md dark:text-gray-100">
+     <div className="container flex flex-col w-full max-w-lg p-6 mx-auto divide-y rounded-md border shadow-md dark:text-gray-100">
 	<div className="flex justify-between p-4 mb-4">
 		<div className="flex space-x-4">
 			<div>

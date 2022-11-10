@@ -7,9 +7,10 @@ import { Helmet } from 'react-helmet'
 
 const Regester = () => {
     const {createUser, googleUser, userUpdet} = useContext(authContext)
-  const navigate = useNavigate()
+    const navigate = useNavigate()
 
 console.log(userUpdet);
+
 // ==-register submition ===
 const handleRegBtn = (event) => {
     event.preventDefault();
