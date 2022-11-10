@@ -1,0 +1,10 @@
+.testimonials{
+ background: url(../../../assest/testi.png);
+    background-size: contain;
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding: 60px 0;
+}
+.tstminil{
+    color:#818cf8 ;
+}

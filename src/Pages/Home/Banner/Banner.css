@@ -1,0 +1,15 @@
+.banner{
+    background: url(../../../assest/banner1.jpg);
+    position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+
+.banner-text{
+    margin-top: 90px;
+}
+.banner-btn	{
+    color: #818cf8;
+}
