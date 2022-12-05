@@ -3,7 +3,7 @@
 
 # Project name and live link - 
 
-    project name: plumboy
+    project name: plumber service
     project link: https://plumbar-ae789.web.app/
     server link: https://github.com/shahedmridhaa/Plamboy-Server
 
